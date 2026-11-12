@@ -4,7 +4,7 @@
   
 remaking this
 
-$${\color{colour test}Blue}$$
+$${\color{blue}colour test}$$
 
 ‎ ‎ ‎ ‎ ‎ 
 
